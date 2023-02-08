@@ -1,3 +1,7 @@
 node_modules
 .env
 settings.json
+package.json
+package-lock.json
+settings.json
+
